@@ -1,0 +1,17 @@
+C:\Users\Matthdub\source\repos\App1_Mobile\App1_Mobile\App1_Mobile\bin\Debug\netstandard2.0\App1_Mobile.deps.json
+C:\Users\Matthdub\source\repos\App1_Mobile\App1_Mobile\App1_Mobile\bin\Debug\netstandard2.0\App1_Mobile.dll
+C:\Users\Matthdub\source\repos\App1_Mobile\App1_Mobile\App1_Mobile\bin\Debug\netstandard2.0\ref\App1_Mobile.dll
+C:\Users\Matthdub\source\repos\App1_Mobile\App1_Mobile\App1_Mobile\bin\Debug\netstandard2.0\App1_Mobile.pdb
+C:\Users\Matthdub\source\repos\App1_Mobile\App1_Mobile\App1_Mobile\obj\Debug\netstandard2.0\App1_Mobile.csprojAssemblyReference.cache
+C:\Users\Matthdub\source\repos\App1_Mobile\App1_Mobile\App1_Mobile\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Matthdub\source\repos\App1_Mobile\App1_Mobile\App1_Mobile\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Matthdub\source\repos\App1_Mobile\App1_Mobile\App1_Mobile\obj\Debug\netstandard2.0\App1_Mobile.AssemblyInfoInputs.cache
+C:\Users\Matthdub\source\repos\App1_Mobile\App1_Mobile\App1_Mobile\obj\Debug\netstandard2.0\App1_Mobile.AssemblyInfo.cs
+C:\Users\Matthdub\source\repos\App1_Mobile\App1_Mobile\App1_Mobile\obj\Debug\netstandard2.0\App1_Mobile.csproj.CoreCompileInputs.cache
+C:\Users\Matthdub\source\repos\App1_Mobile\App1_Mobile\App1_Mobile\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Matthdub\source\repos\App1_Mobile\App1_Mobile\App1_Mobile\obj\Debug\netstandard2.0\App1_Mobile.dll
+C:\Users\Matthdub\source\repos\App1_Mobile\App1_Mobile\App1_Mobile\obj\Debug\netstandard2.0\ref\App1_Mobile.dll
+C:\Users\Matthdub\source\repos\App1_Mobile\App1_Mobile\App1_Mobile\obj\Debug\netstandard2.0\App1_Mobile.pdb
+C:\Users\Matthdub\source\repos\App1_Mobile\App1_Mobile\App1_Mobile\obj\Debug\netstandard2.0\Views\RegisterPage.xaml.g.cs
+C:\Users\Matthdub\source\repos\App1_Mobile\App1_Mobile\App1_Mobile\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\Users\Matthdub\source\repos\App1_Mobile\App1_Mobile\App1_Mobile\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
